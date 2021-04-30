@@ -26,13 +26,13 @@ docker-compose up
 
 ## Screenshots
 
-![](screenShots/1.png)</br>
-![](screenShots/2.png)</br>
-![](screenShots/3.png)</br>
-![](screenShots/4.png)</br>
-![](screenShots/5.png)</br>
-![](screenShots/6.png)</br>
-![](screenShots/7.png)</br>
+![](screenshots/1.png)</br>
+![](screenshots/2.png)</br>
+![](screenshots/3.png)</br>
+![](screenshots/4.png)</br>
+![](screenshots/5.png)</br>
+![](screenshots/6.png)</br>
+![](screenshots/7.png)</br>
 
 
 ## License
